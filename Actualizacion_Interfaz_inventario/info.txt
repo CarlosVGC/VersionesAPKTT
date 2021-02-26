@@ -1,0 +1,1 @@
+Actualizacion de la interfaz del inventario para visualizar correctamente los menus
